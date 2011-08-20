@@ -37,3 +37,6 @@
 [submodule ".\\bundle\\rebar"]
 	path = .\\bundle\\rebar
 	url = https://github.com/mbbx6spp/vim-rebar.git
+[submodule "bundle\\zoomwin"]
+	path = bundle\\zoomwin
+	url = https://github.com/vim-scripts/ZoomWin.git
