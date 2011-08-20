@@ -31,3 +31,6 @@
 [submodule ".\\bundle\\bufexplorer"]
 	path = .\\bundle\\bufexplorer
 	url = https://github.com/vim-scripts/bufexplorer.zip.git
+[submodule ".\\bundle\\vimerl"]
+	path = .\\bundle\\vimerl
+	url = https://github.com/oscarh/vimerl.git
