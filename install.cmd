@@ -1,3 +1,3 @@
 @mklink /d autoload bundle\pathogen\autoload
 
-@mklink ..\_vimrc vimrc
+@mklink ..\_vimrc %CD%\vimrc
