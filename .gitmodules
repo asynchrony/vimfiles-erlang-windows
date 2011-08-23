@@ -54,3 +54,7 @@
 	path = bundle/zoomwin
 	url = https://github.com/vim-scripts/ZoomWin.git
 	ignore = dirty
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = http://github.com/ervandew/supertab.git
+	ignore = dirty
