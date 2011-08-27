@@ -48,7 +48,7 @@
 	ignore = dirty
 [submodule "bundle/rebar"]
 	path = bundle/rebar
-	url = https://github.com/mbbx6spp/vim-rebar.git
+	url = https://github.com/asynchrony/vim-rebar.git
 	ignore = dirty
 [submodule "bundle/zoomwin"]
 	path = bundle/zoomwin
