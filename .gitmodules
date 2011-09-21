@@ -46,10 +46,6 @@
 	path = bundle/vimerl
 	url = https://github.com/oscarh/vimerl.git
 	ignore = dirty
-[submodule "bundle/rebar"]
-	path = bundle/rebar
-	url = https://github.com/asynchrony/vim-rebar.git
-	ignore = dirty
 [submodule "bundle/zoomwin"]
 	path = bundle/zoomwin
 	url = https://github.com/vim-scripts/ZoomWin.git
