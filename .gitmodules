@@ -54,3 +54,6 @@
 	path = bundle/supertab
 	url = http://github.com/ervandew/supertab.git
 	ignore = dirty
+[submodule "bundle/color-sampler"]
+	path = bundle/color-sampler
+	url = https://github.com/vim-scripts/Color-Sampler-Pack.git
