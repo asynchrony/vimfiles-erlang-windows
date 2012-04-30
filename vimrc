@@ -128,5 +128,5 @@ set foldlevelstart=99
 " Show (partial) command in the status line
 set showcmd
 
-map <C-TAB> :bnext<CR>
-map <C-S-TAB> :bprev<CR>
+map <C-TAB> :tabnext<CR>
+map <C-S-TAB> :tabprev<CR>
