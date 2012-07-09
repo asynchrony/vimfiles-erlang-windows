@@ -57,3 +57,6 @@
 [submodule "bundle/color-sampler"]
 	path = bundle/color-sampler
 	url = https://github.com/vim-scripts/Color-Sampler-Pack.git
+[submodule "bundle/mustache"]
+	path = bundle/mustache
+	url = https://github.com/juvenn/mustache.vim.git
