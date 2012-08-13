@@ -60,3 +60,6 @@
 [submodule "bundle/mustache"]
 	path = bundle/mustache
 	url = https://github.com/juvenn/mustache.vim.git
+[submodule "bundle/powershell"]
+	path = bundle/powershell
+	url = https://github.com/PProvost/vim-ps1
