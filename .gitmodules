@@ -57,9 +57,16 @@
 [submodule "bundle/color-sampler"]
 	path = bundle/color-sampler
 	url = https://github.com/vim-scripts/Color-Sampler-Pack.git
+	ignore = dirty
 [submodule "bundle/mustache"]
 	path = bundle/mustache
 	url = https://github.com/juvenn/mustache.vim.git
+	ignore = dirty
 [submodule "bundle/powershell"]
 	path = bundle/powershell
 	url = https://github.com/PProvost/vim-ps1
+	ignore = dirty
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = https://github.com/godlygeek/tabular
+	ignore = dirty
