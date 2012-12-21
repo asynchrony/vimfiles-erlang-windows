@@ -130,3 +130,5 @@ set showcmd
 
 map <C-TAB> :tabnext<CR>
 map <C-S-TAB> :tabprev<CR>
+
+let c_cpp_comments = 0
