@@ -20,7 +20,7 @@
 	ignore = dirty
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = https://github.com/wycats/nerdtree.git
+	url = https://github.com/scrooloose/nerdtree.git
 	ignore = dirty
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter

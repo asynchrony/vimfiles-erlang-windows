@@ -1,6 +1,8 @@
 " Alt-/ to toggle comments
 map <A-/> <plug>NERDCommenterToggle<CR>
 
+let g:NERDTreeDirArrows=1
+
 " Don't beep
 set visualbell
 
