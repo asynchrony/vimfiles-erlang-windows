@@ -45,4 +45,4 @@ function s:DefineCommand(name, destination)
   call s:CommandCabbr(a:name, a:destination)
 endfunction
 
-set guifont=DejaVu_Sans_Mono:h10:cANSI
+set guifont=Consolas\ for\ Powerline\ FixedD:h10
