@@ -130,3 +130,9 @@ set showcmd
 
 map <C-TAB> :tabnext<CR>
 map <C-S-TAB> :tabprev<CR>
+
+let c_cpp_comments = 0
+if has("gui_running")
+    let g:Powerline_symbols="fancy"
+endif
+
